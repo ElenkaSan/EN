@@ -1,0 +1,41 @@
+Part I 
+
+https://github.com/ElenkaSan/EN/tree/master
+--------
+elenk@Elenka-San MINGW64 /d/Elenka_San/study Sof Eng IT
+$ cd branch_time
+
+elenk@Elenka-San MINGW64 /d/Elenka_San/study Sof Eng IT/branch_time (master)
+$ ls
+app.css  index.html  README.md  script.js
+
+elenk@Elenka-San MINGW64 /d/Elenka_San/study Sof Eng IT/branch_time (master)
+$ git init
+Reinitialized existing Git repository in D:/Elenka_San/study Sof Eng IT/branch_time/.git/
+
+$ git remote add origin https://github.com/ElenkaSan/EN.git
+
+$ git remote -v
+origin  https://github.com/ElenkaSan/EN.git (fetch)
+origin  https://github.com/ElenkaSan/EN.git (push)
+
+$ git push -u origin master
+
+$ git status 
+
+$ git add .
+
+$ git commit -m "added backcolor"
+
+$ git push 
+
+elenk@Elenka-San MINGW64 /d/Elenka_San/study Sof Eng IT/branch_time (master)
+$ git log --oneline
+5f44d0b (HEAD -> master, origin/master) README.html
+f5dbdfd added backcolor
+6a16480 summary of this commit
+
+----------
+Part II - memory game on GitHub pages
+
+https://github.com/ElenkaSan/Memory-Game
