@@ -3,11 +3,11 @@ body {
      justify-content: center;
       align-items: center;
        height: 100vh;
-         background-color: black;
+         background-color: rgb(37, 6, 77);
 }
 
 h1 {
- font-size: 5rem;
+ font-size: 10rem;
  font-family: Hachi Maru Pop;
 }
 
